@@ -116,6 +116,8 @@ a{
     text-align: center;
     font-size: medium;
     margin-top: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: #414866;
 }
 
 @media (max-width: 512px){
