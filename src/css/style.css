@@ -1,12 +1,12 @@
 *{
     box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
 }
 
 body{
     background: #1c1e26;
     font-family: sans-serif;
     max-width: 500px;
-    /*height: 100vh;*/
     margin: 0 auto;
     display: flex;
     align-items: center;
@@ -52,8 +52,8 @@ a{
 }
 
 #qr-code{
-    height: 500px;
-    width: 500px;
+    height: 420px;
+    width: 420px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -116,7 +116,6 @@ a{
     text-align: center;
     font-size: medium;
     margin-top: 50px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-shadow: #414866;
 }
 
