@@ -6,19 +6,21 @@
 body{
     background: #1c1e26;
     font-family: sans-serif;
-    max-width: 500px;
-    margin: 0 auto;
+    margin: 10 auto;
     display: flex;
-    align-items: center;
     justify-content: center;
     color: #fff;
+}
+
+.container{
+    margin-top: 20px auto;
 }
 
 input[type="color"]{
     border: none;
     width: 32.5%;
     height: 40px;
-    border-radius: 3px;
+    border-radius: 4px;
     margin-top: 10px;
 }
 
@@ -58,6 +60,7 @@ a{
     align-items: center;
     justify-content: center;
     border: 1px solid #414866;
+    border-radius: 4px;
 }
 
 #qr-code img, #qr-code canvas{
@@ -112,11 +115,31 @@ a{
     margin: 1rem 0;
 }
 
-.copyright{
-    text-align: center;
-    font-size: medium;
-    margin-top: 50px;
-    text-shadow: #414866;
+.social {
+    display: flex;
+    justify-content: center; /* Centralizar horizontalmente */
+    align-items: center; /* Centralizar verticalmente */
+    padding: 10px; /* Espaçamento interno */
+    border-radius: 4px;
+    margin-top: 30px;
+}
+
+/* Estilos para os ícones sociais */
+.social a {
+    display: inline-block; /* Torna os elementos em linha */
+    margin: 0 10px; /* Espaçamento entre os ícones */
+}
+
+/* Estilos para as imagens dos ícones sociais */
+.social a img {
+    width: 40px; /* Defina a largura desejada para os ícones */
+    height: 40px; /* Defina a altura desejada para os ícones */
+}
+
+footer.copyright {
+    display: flex; /* Torna o conteúdo do footer flexível */
+    justify-content: center; /* Centraliza os itens horizontalmente */
+    color: #fff; /* Cor do texto */
 }
 
 @media (max-width: 512px){
