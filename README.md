@@ -7,8 +7,3 @@
 <br>
 <br>
 🔍 Projeto desenvolvido com intuito de ser uma ferramenta gratuita que atenda a todos.
-<br>
-<br>
-<a href="https://main.d2n3362xet2yxj.amplifyapp.com/"> 🔍 Gerador de QR Code hospedado online</a>.
-<br>
-<a href="https://main.d2n3362xet2yxj.amplifyapp.com/"> 🔍 Online hosted QR Code generator</a>.
