@@ -1,13 +1,13 @@
 # qrcodeGenerator
 🔍 QR Code Generator / Gerador de Código QR
-
+<br>
 
 ## EN-US
-🔍 Project developed with the aim of being a free tool that serves everyone.
+🔍 Simple project in javascript, which I developed to help me with personal work.
 <br>
-<br>
-## PT-BR
-🔍 Projeto desenvolvido com intuito de ser uma ferramenta gratuita que atenda a todos.
 
+## PT-BR
+🔍 Projeto simples em javascript, que desenvolvi para me atender em trabalhos pessoais.
+<br>
 
 <img src="screenshot.png" alt="Screenshot">
